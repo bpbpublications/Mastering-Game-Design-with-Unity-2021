@@ -3,7 +3,7 @@
 Learn and Leverage the Power of Unity to Create Amazing Video Games!
 
 This is the repository for [Mastering Game Design with Unity 2021
-](https://in.bpbonline.com/products/mastering-game-design-with-unity-2021?_pos=1&_sid=19b196d44&_ss=r&variant=43717284888814),published by BPB Publications. 
+](https://bpbonline.com/products/mastering-game-design-with-unity-2021),published by BPB Publications. 
 
 ## About the Book
 The Unity Engine has been steadily evolving over the past few years into one of the most powerful resources for the game development community. Its feature-rich toolkit and user-friendliness make it an ideal foundation for budding game developers.
